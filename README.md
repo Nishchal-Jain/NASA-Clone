@@ -1,0 +1,3 @@
+This project mainly consists of a landing page or the home page, the HTML code for that is in the Index file.It also consists of various other pages like images, aeronautics, our solar system, universe, contact us page and the code for them is in their respective html files. I have used different css files for each page and tried to use the best images and infographics present in the original NASA webpage.
+The technologies used in this page consists of HTML, CSS, Bootstrap. I would love to make this project much better by implementing MERN technologies in the future once i am proficient in them.
+Please do let me know if there is any error in any part of the code or there can be improvements in the code, your inputs would be much appreciated.
